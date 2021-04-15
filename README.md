@@ -3,7 +3,9 @@ Zadání SQL projektu
 
 
 Zadání: Od Vašeho kolegy statistika jste obdrželi následující email:
+
 ##########
+
 Dobrý den,
 
 snažím se určit faktory, které ovlivňují rychlost šíření koronaviru na úrovni jednotlivých států. Chtěl bych Vás, coby datového analytika, požádat o pomoc s přípravou dat, která potom budu statisticky zpracovávat. Prosím Vás o dodání dat podle požadavků sepsaných níže.
