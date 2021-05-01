@@ -190,7 +190,7 @@ FROM t_lenka_pinosova_final_covid fcovid
 );
 
 
-# Mazání pomocných tabulek =========================================
+# MazÃ¡nÃ­ pomocnÃ½ch tabulek =========================================
 DROP TABLE t_lenka_pinosova_final_countries
 , t_lenka_pinosova_final_religion
 , t_lenka_pinosova_final_life
