@@ -31,4 +31,4 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
 
 V případě nejasností se mě určitě zeptejte.
 
-S pozdravem, Student (a.k.a. William Gosset)
+S pozdravem, Student (a.k.a. William Gosset) 
